@@ -1,2 +1,2 @@
-add_lunch_combo cm_zerofltexx-eng
-add_lunch_combo cm_zerofltexx-userdebug
+add_lunch_combo nfx_zerofltexx-eng
+add_lunch_combo nfx_zerofltexx-userdebug
