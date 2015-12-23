@@ -16,11 +16,8 @@
 
 $(call inherit-product, device/samsung/zerofltexx/full_zerofltexx.mk)
 
-# Enhanced NFC
-$(call inherit-product, vendor/cm/config/nfc_enhanced.mk)
-
-# Inherit common CM phone.
-$(call inherit-product, vendor/cm/config/common_full_phone.mk)
+# Inherit common phone.
+$(call inherit-product, vendor/nfx/config/common.mk)
 
 PRODUCT_DEVICE := zerofltexx
-PRODUCT_NAME := cm_zerofltexx
+PRODUCT_NAME := nfx_zerofltexx

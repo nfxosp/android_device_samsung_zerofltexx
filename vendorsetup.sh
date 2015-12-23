@@ -1,0 +1,3 @@
+add_lunch_combo nfx_zerofltexx-user
+add_lunch_combo nfx_zerofltexx-userdebug
+add_lunch_combo nfx_zerofltexx-eng
