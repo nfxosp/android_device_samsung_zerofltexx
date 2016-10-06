@@ -1,0 +1,8 @@
+[
+    {
+        "remote": "github",
+        "repository": "CyanogenMod/android_device_samsung_zero-common",
+        "target_path": "device/samsung/zero-common",
+        "revision": "cm-14.0"
+    }
+]
